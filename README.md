@@ -1,6 +1,6 @@
 # examen-vision-artificial-IIA-2023-1
 
-#!!!Por favor lea lo que hay acontinuación!!!
+# !!!Por favor lea lo que hay acontinuación!!!
 
 Proyecto completo:
 
